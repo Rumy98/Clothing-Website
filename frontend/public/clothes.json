@@ -1,0 +1,193 @@
+[
+  {
+      "_id": 1,
+      "name": "Classic White T-Shirt",
+      "description": "A versatile white t-shirt made from premium cotton for ultimate comfort.",
+      "category": "tops",
+      "trending": true,
+      "image": "image-1.png",
+      "oldPrice": 1999,
+      "newPrice": 1499
+  },
+  {
+      "_id": 2,
+      "name": "Blue Denim Jacket",
+      "description": "A classic blue denim jacket with a modern fit, perfect for casual outings.",
+      "category": "outerwear",
+      "trending": true,
+      "image": "image-2.png",
+      "oldPrice": 4999,
+      "newPrice": 3999
+  },
+  {
+      "_id": 3,
+      "name": "Slim Fit Jeans",
+      "description": "Stylish slim fit jeans designed for a sleek, modern look.",
+      "category": "bottoms",
+      "trending": true,
+      "image": "image-3.png",
+      "oldPrice": 5999,
+      "newPrice": 4999
+  },
+  {
+      "_id": 4,
+      "name": "Black Hoodie",
+      "description": "A cozy black hoodie with a minimalist design, great for everyday wear.",
+      "category": "outerwear",
+      "trending": false,
+      "image": "image-4.png",
+      "oldPrice": 3999,
+      "newPrice": 2999
+  },
+  {
+      "_id": 5,
+      "name": "Summer Floral Dress",
+      "description": "A light and breezy floral dress, ideal for warm summer days.",
+      "category": "dresses",
+      "trending": true,
+      "image": "image-5.png",
+      "oldPrice": 4999,
+      "newPrice": 3499
+  },
+  {
+      "_id": 6,
+      "name": "Sporty Sneakers",
+      "description": "Comfortable and stylish sneakers for all your daily adventures.",
+      "category": "footwear",
+      "trending": false,
+      "image": "image-6.png",
+      "oldPrice": 6999,
+      "newPrice": 5499
+  },
+  {
+      "_id": 7,
+      "name": "Leather Belt",
+      "description": "A premium leather belt that adds a touch of sophistication to any outfit.",
+      "category": "accessories",
+      "trending": true,
+      "image": "image-7.png",
+      "oldPrice": 2499,
+      "newPrice": 1999
+  },
+  {
+      "_id": 8,
+      "name": "Athletic Shorts",
+      "description": "Lightweight and breathable shorts, perfect for workouts or lounging.",
+      "category": "bottoms",
+      "trending": true,
+      "image": "image-8.png",
+      "oldPrice": 2999,
+      "newPrice": 1999
+  },
+  {
+      "_id": 9,
+      "name": "Woolen Scarf",
+      "description": "A soft woolen scarf to keep you warm during the colder months.",
+      "category": "accessories",
+      "trending": false,
+      "image": "image-9.png",
+      "oldPrice": 3499,
+      "newPrice": 2499
+  },
+  {
+      "_id": 10,
+      "name": "Classic Black Blazer",
+      "description": "A timeless black blazer tailored for formal and semi-formal occasions.",
+      "category": "outerwear",
+      "trending": true,
+      "image": "images (8).jpeg",
+      "oldPrice": 8999,
+      "newPrice": 7499
+  },
+  {
+      "_id": 11,
+      "name": "Cotton Pajama Set",
+      "description": "Soft and breathable pajama set for a comfortable night's sleep.",
+      "category": "sleepwear",
+      "trending": true,
+      "image": "image-11.png",
+      "oldPrice": 3999,
+      "newPrice": 2999
+  },
+  {
+      "_id": 12,
+      "name": "Canvas Tote Bag",
+      "description": "Eco-friendly canvas tote bag perfect for shopping or everyday use.",
+      "category": "accessories",
+      "trending": true,
+      "image": "image-12.png",
+      "oldPrice": 1999,
+      "newPrice": 1499
+  },
+  {
+      "_id": 13,
+      "name": "Striped Polo Shirt",
+      "description": "A stylish striped polo shirt for casual or semi-formal occasions.",
+      "category": "tops",
+      "trending": false,
+      "image": "image-13.png",
+      "oldPrice": 2999,
+      "newPrice": 2499
+  },
+  {
+      "_id": 14,
+      "name": "Rainproof Jacket",
+      "description": "A lightweight and durable rain jacket to keep you dry in wet weather.",
+      "category": "outerwear",
+      "trending": true,
+      "image": "image-14.png",
+      "oldPrice": 7999,
+      "newPrice": 6499
+  },
+
+  {
+      "_id": 16,
+      "name": "Knitted Beanie",
+      "description": "A cozy knitted beanie to keep you warm during chilly days.",
+      "category": "accessories",
+      "trending": false,
+      "image": "image-16.png",
+      "oldPrice": 1499,
+      "newPrice": 999
+  },
+  {
+      "_id": 17,
+      "name": "Ankle Boots",
+      "description": "Stylish ankle boots suitable for both casual and formal wear.",
+      "category": "footwear",
+      "trending": true,
+      "image": "image-17.png",
+      "oldPrice": 9999,
+      "newPrice": 8499
+  },
+  {
+      "_id": 18,
+      "name": "Checked Flannel Shirt",
+      "description": "A warm and soft flannel shirt with a timeless checked pattern.",
+      "category": "tops",
+      "trending": true,
+      "image": "image-18.png",
+      "oldPrice": 4499,
+      "newPrice": 3499
+  },
+  {
+      "_id": 19,
+      "name": "Silk Tie",
+      "description": "A premium silk tie to complement any formal outfit.",
+      "category": "accessories",
+      "trending": false,
+      "image": "image-19.png",
+      "oldPrice": 2499,
+      "newPrice": 1999
+  },
+  {
+      "_id": 20,
+      "name": "Peacoat",
+      "description": "A classic double-breasted peacoat for a refined winter look.",
+      "category": "outerwear",
+      "trending": true,
+      "image": "image-20.png",
+      "oldPrice": 14999,
+      "newPrice": 12999
+  }
+]
